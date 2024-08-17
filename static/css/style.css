@@ -1,0 +1,48 @@
+
+
+.card-img-top{
+    border-radius: 50%;
+    max-width: 40%;
+    align-self: center;
+    border-radius: 50%;
+}
+body{
+    margin-top: 50px;
+}
+#card_one{
+    margin-top: 20px;
+    width: 100%;
+    border: 1px solid rgb(126, 217, 237);
+    padding-top: 20px;
+    padding-bottom: 101%;
+    height: 100px;
+}
+#card_two{
+    margin-top: 20px;
+    border: 1px solid rgb(126, 217, 237);
+    padding-top: 20px;
+    text-align: left;
+    margin-bottom: 5px;
+    font-size: medium;
+
+}
+#card_three{
+    margin-top: 3px;
+    padding-bottom: 5%;
+    border: 1px solid rgb(126, 217, 237);
+
+}
+
+
+#about{
+    margin-top: 3px;
+    
+    border: 1px solid rgb(126, 217, 237);
+}
+
+#img_one {
+    justify-content: center;
+    align-self: center;
+    max-width: 70%;
+    height: 50%;
+}
